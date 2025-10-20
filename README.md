@@ -3,11 +3,11 @@ an index of mike and carmen's projects.
 
 ## Projects:
 ### 1 - Title:
-- url:
-- description:
+- url: https://github.com/corviato1/digital-local-library-index.
+- description: A cool way for us to add a unique and useful index for our books.
 ### 2 - Title:
-- url:
-- description:
+- url: https://github.com/corviato1/pcg-slabs-features.
+- description: A sandbox for website features.
 ### 3 - Title:
 - url:
 - description:
